@@ -9,4 +9,7 @@ public :
 
 	Player();
 	void printId();
+
+	void setId(int id);
+	int getId() const;
 };
