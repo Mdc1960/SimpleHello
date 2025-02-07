@@ -8,5 +8,5 @@ private :
 public :
 
 	Player();
-	void prinId();
+	void printId();
 };

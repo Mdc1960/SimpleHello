@@ -11,6 +11,6 @@ Player::Player()
 	id = 0;
 }
 
-Player::printId(){
+void Player::printId(){
 	cout << "Player Id is : " << id << endl;
 }
