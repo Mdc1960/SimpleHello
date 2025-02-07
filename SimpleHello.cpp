@@ -14,6 +14,8 @@ int main()
     Player p = Player();
 
     p.printId();
+    p.setId(25);
+    p.printId();
 
 
     return 0;
