@@ -8,4 +8,5 @@ private :
 public :
 
 	Player();
+	void prinId();
 };
